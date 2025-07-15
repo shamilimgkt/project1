@@ -12,5 +12,14 @@ package com.sample;
 		System.out.println("345");
 
 	}
+	private void kanada() {
+		System.out.println("345");
+	}
+	private void kerala() {
+		System.out.println("345");
+	}
+	private void doha() {
+		System.out.println("345");
+	}
 	}
 
