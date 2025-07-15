@@ -25,5 +25,16 @@ package com.sample;
 			// TODO Auto-generated method stub
 
 		}	
+	private void kanada() {
+		System.out.println("345");
+	}
+	private void kerala() {
+		System.out.println("345");
+	}
+	private void doha() {
+		System.out.println("345");
+	}
+	
+
 	}
 
