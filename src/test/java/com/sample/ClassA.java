@@ -12,6 +12,19 @@ package com.sample;
 		System.out.println("345");
 
 	}
+	private void india() {
+		System.out.println("ind");
+		}
+		private void usa() {
+			System.out.println("usa");
+
+		}private void island() {
+			System.out.println("island");
+				}
+		private void srilanka() {
+			// TODO Auto-generated method stub
+
+		}	
 	private void kanada() {
 		System.out.println("345");
 	}
@@ -21,5 +34,7 @@ package com.sample;
 	private void doha() {
 		System.out.println("345");
 	}
+	
+
 	}
 
