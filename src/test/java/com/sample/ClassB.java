@@ -9,4 +9,8 @@ private void tamil() {
 	// TODO Auto-generated method stub
 
 }
+private void maths() {
+	// TODO Auto-generated method stub
+
+}
 }

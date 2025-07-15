@@ -20,6 +20,10 @@ package com.sample;
 
 		}private void island() {
 			System.out.println("island");
+				}
+		private void srilanka() {
+			// TODO Auto-generated method stub
 
-	}}
+		}	
+	}
 
